@@ -11,7 +11,7 @@ An admin will choose when the lottery is over.
 
 The lottery will select a random winner.
 
-Tools and Tech Stack
+# Tools and Tech Stack
 
 Solidity - ethereum smart contract language
 
